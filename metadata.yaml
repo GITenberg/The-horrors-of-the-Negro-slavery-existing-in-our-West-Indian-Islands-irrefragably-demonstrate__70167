@@ -1,0 +1,32 @@
+_repo: The-horrors-of-the-Negro-slavery-existing-in-our-West-Indian-Islands-irrefragably-demonstrate__70167
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-02-28'
+identifiers:
+  gutenberg: '70167'
+language: en
+pgterms:marc905: 20220422192127listed
+pgterms:marc906: '1805'
+pgterms:marc907: GB
+production_note: Bob Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. Hatchard, $c1805.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The horrors of the Negro slavery existing in our West Indian Islands, irrefragably
+  demonstrated from official documents : $b Recently presented to the House of Commons'
+url: http://www.gutenberg.org/ebooks/70167
