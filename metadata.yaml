@@ -1,5 +1,8 @@
 _repo: The-horrors-of-the-Negro-slavery-existing-in-our-West-Indian-Islands-irrefragably-demonstrate__70167
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70167-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70167#The-horrors-of-the-Negro-slavery-existing-in-our-West-Indian-Islands-irrefragably-demonstrate_
 gutenberg_issued: '2023-02-28'
 identifiers:
   gutenberg: '70167'
